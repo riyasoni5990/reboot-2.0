@@ -1,0 +1,13 @@
+<h3>block system call for date command</h3>
+
+=>which date
+=>Go to the path
+=>Remove the code of date file
+=>date
+
+<h3>block system call for fireflx </h3>
+
+=>which firefox
+=>Go to the path
+=>Remove the code of firefox file
+=>firefox
