@@ -1,0 +1,7 @@
+####create empty directory
+
+=> mkdir ""
+
+####create -okgoogle directory
+
+=>mkdir -- -okgoogle
