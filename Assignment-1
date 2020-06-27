@@ -1,10 +1,10 @@
-**block system call for date command**
+# block system call for date command
 
 =>which date
 =>Go to the path
 =>Remove the code of date file
 =>date
-**block system call for fireflx**
+# block system call for fireflx
 
 =>which firefox
 =>Go to the path
